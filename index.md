@@ -53,6 +53,7 @@
 >[!CAUTION]
 > Contact me only if necessary
 
+---
 
 [^1]: Malaviya National Institute of Technology
 [^2]: Data Structures and Algorithms
